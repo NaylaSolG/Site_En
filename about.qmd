@@ -11,4 +11,4 @@ Previously, i worked as a public policy and data analyst at the National Weather
 
 ## **Resume**
 
-[Download Resume](https://naylasolg.github.io/Site_En/Resume.pdf)
+[Download Resume](./Resume.pdf)
