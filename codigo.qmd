@@ -1,0 +1,5 @@
+# Computational Social Science
+
+[SICSS](https://sicss.io/2026/buenos-aires/people) Summer Institutes in Computational Social Science 2026 - Argentina
+
+[Modeling](https://github.com/NaylaSolG/Model-Atlas-AmLatinayCaribeCAF) Atlas of Local and Regional Governments of Latin America and the Caribbean (CAF - Development Bank of Latin America and the Caribbean)

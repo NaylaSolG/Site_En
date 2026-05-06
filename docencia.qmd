@@ -1,0 +1,21 @@
+# **Faculty**
+
+## **Diploma at Computational Social Science**
+
+Proffessor assistant in Posgraduate Diploma.
+Jefa de trabajos prácticos en Diploma de posgrado - UNSAM
+M1: Introduction to Data Science
+M2: Data Visualization
+M3: Introduction to Data Modeling
+M4: Introduction to Machine Learning Fundamentals
+
+[Repository](https://github.com/DCSCyHD)
+
+## **Quantitative methodology**
+
+Proffessor assistant in three programs at Anthropology and Sociology carrers of the National University of San Martín.
+
+[Repository](https://github.com/NaylaSolG/Metodo_B) Quantitative methodology
+
+[Repository](https://gefero.github.io/factor_data_track_CSS/M1/M1.html) Track - Quantitative Methodology and Computational Social Science
+

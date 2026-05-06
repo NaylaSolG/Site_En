@@ -1,0 +1,14 @@
+![](banner_en.png)
+
+## **Bio**
+
+I'm a proffessor assistant in graduate and postgraduate at the National University of San Martín, also i'm part of the lab at Computational Social Science [Factor\~Data](https://factor-data.netlify.app/) and the [Center of Study about the Digital Society](https://www.unsam.edu.ar/escuelas/eidaes/cesdi/), from the Interdisciplinary School of Advanced Social Studies.
+
+Primarily i work with R, but at the begining i studied with Python and SQL at the Data Analysis and Public Policy Diploma of the University of Buenos Aires.
+
+Previously, i worked as a public policy and data analyst at the National Weather Service and the National Institute of Statistics and Census.
+
+
+## **Resume**
+
+[Download Resume](https://naylasolg.github.io/Site_En/Resume.pdf)

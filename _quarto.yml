@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: .
+
+website:
+  title: "Nayla Sol Garcilazo"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: about.qmd
+        text: About me
+      - href: codigo.qmd
+        text: Computational Social Science
+      - href: docencia.qmd
+        text: Faculty
+      - href: encuestas.qmd
+        text: Surveys
+
+
+    right:
+      - text: "ES 🌐"
+        href: https://naylasolg.github.io/Site_Es/
+      - text: "Contacto"
+        menu: 
+          - text: "Email"
+            href: mailto:ngarcilazo@unsam.edu.ar
+          - text: "LinkedIn"
+            href: https://www.linkedin.com/in/nayla-sol-garcilazo/
+
+
+format:
+  html:
+    theme: minty
