@@ -5,8 +5,8 @@
 I'm a sociologist, data analyst, research assistant and professor assistant at National University of Buenos Aires.
 
 
-- [Computational Social Science](codigo.html)
+- [Computational Social Science](./codigo.html)
 
-- [Faculty](docencia.html)
+- [Faculty](./docencia.html)
 
-- [Surveys](encuestas.html)
+- [Surveys](./encuestas.html)
