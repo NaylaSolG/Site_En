@@ -20,13 +20,16 @@ website:
 
     right:
       - text: "ES 🌐"
-        href: https://naylasolg.github.io/Site_Es/
+        href: "https://naylasolg.github.io/Site_Es/"
+        target: _blank
       - text: "Contacto"
         menu: 
           - text: "Email"
             href: mailto:ngarcilazo@unsam.edu.ar
           - text: "LinkedIn"
             href: https://www.linkedin.com/in/nayla-sol-garcilazo/
+            target: _blank
+
 
 
 format:
