@@ -2,7 +2,7 @@
 
 ## **Diploma at Computational Social Science**
 
-Proffessor assistant in Posgraduate Diploma.
+professor assistant in Posgraduate Diploma.
 Jefa de trabajos prácticos en Diploma de posgrado - UNSAM
 M1: Introduction to Data Science
 M2: Data Visualization
@@ -13,7 +13,7 @@ M4: Introduction to Machine Learning Fundamentals
 
 ## **Quantitative methodology**
 
-Proffessor assistant in three programs at Anthropology and Sociology carrers of the National University of San Martín.
+professor assistant in three programs at Anthropology and Sociology carrers of the National University of San Martín.
 
 [Repository](https://github.com/NaylaSolG/Metodo_B) Quantitative methodology
 

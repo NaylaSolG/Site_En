@@ -2,11 +2,11 @@
 
 #### **Sociologist and Data Analyst.**
 
-I'm a sociologist, data analyst, research assistant and proffessor assistant at National University of Buenos Aires.
+I'm a sociologist, data analyst, research assistant and professor assistant at National University of Buenos Aires.
 
 
--   [Computational Social Science](https://naylasolg.github.io/Site_Encode.html)
+- [Computational Social Science](codigo.html)
 
--   [Faculty](https://naylasolg.github.io/Site_En/faculty.html)
+- [Faculty](docencia.html)
 
--   [Surveys](https://naylasolg.github.io/Site_En/surveys.html)
+- [Surveys](encuestas.html)
