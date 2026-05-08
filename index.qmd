@@ -2,7 +2,7 @@
 
 #### **Sociologist and Data Analyst.**
 
-I'm a sociologist, data analyst, research assistant and professor assistant at National University of Buenos Aires.
+I'm a sociologist, I worked as a data analyst at public institutions, and now I am a instructor and research assistant at National University of San Martín.
 
 
 - [Computational Social Science](./codigo.html)
